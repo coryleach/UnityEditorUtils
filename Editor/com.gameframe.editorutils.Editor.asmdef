@@ -1,0 +1,1 @@
+{ "name": "com.gameframe.editorutils.Editor", "references": [ "com.gameframe.editorutils" ], "optionalUnityReferences": [], "includePlatforms": [ "Editor" ], "excludePlatforms": [] }
