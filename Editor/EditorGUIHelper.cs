@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace GameClient.Editor
+namespace Gameframe.EditorUtils
 {
     
     public static class EditorGUIHelper

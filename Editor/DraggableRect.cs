@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace GameClient.Editor
+namespace Gameframe.EditorUtils
 {
     public class DraggableRect
     {

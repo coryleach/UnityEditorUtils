@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-namespace GameClient.Editor
+namespace Gameframe.EditorUtils
 {
     public class SlideGroup
     {

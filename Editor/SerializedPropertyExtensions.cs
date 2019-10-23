@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEditor;
 
-namespace GameClient.Editor
+namespace Gameframe.EditorUtils
 {
     public static class SerializedPropertyExtensions
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace GameClient.Editor
+namespace Gameframe.EditorUtils
 {
     public struct Pagination
     {
