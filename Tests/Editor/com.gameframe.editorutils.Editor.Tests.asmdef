@@ -1,1 +1,0 @@
-{ "name": "com.gameframe.editorutils.Editor.Tests", "references": [ "com.gameframe.editorutils" ], "optionalUnityReferences": ["TestAssemblies"], "includePlatforms": [ "Editor" ], "excludePlatforms": [] }
