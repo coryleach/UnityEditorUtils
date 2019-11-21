@@ -1,1 +1,15 @@
-{ "name": "com.gameframe.editorutils.Editor", "references": [ "com.gameframe.editorutils" ], "optionalUnityReferences": [], "includePlatforms": [ "Editor" ], "excludePlatforms": [] }
+{
+    "name": "com.gameframe.editorutils.Editor",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
