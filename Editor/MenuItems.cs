@@ -1,0 +1,18 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEditor;
+using UnityEngine;
+
+namespace Gameframe.EditorUtils
+{
+    public static class MenuItems
+    {
+        [MenuItem("Gameframe/Open/PersistentDataPath")]
+        public static void OpenPersistentDataPath()
+        {
+            EditorUtility.RevealInFinder(Application.persistentDataPath);
+        }
+    }
+}
+
+
