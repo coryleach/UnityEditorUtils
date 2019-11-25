@@ -1,14 +1,12 @@
 {
-    "name": "com.gameframe.editorutils",
-    "displayName": "Gameframe.EditorUtils",
-    "version": "1.0.0",
-    "description": "Editor utilities and helpers",
-    "unity": "",
-    "unityRelease": "",
-    "keywords": [],
-    "author": {
-        "name": "Cory Leach",
-        "email": "cory.leach@gmail.com",
-        "url": "https://github.com/coryleach"
-    }
+  "name": "com.gameframe.editorutils",
+  "displayName": "Gameframe.EditorUtils",
+  "version": "1.0.0",
+  "description": "Editor utilities and helpers",
+  "keywords": [],
+  "author": {
+    "name": "Cory Leach",
+    "email": "cory.leach@gmail.com",
+    "url": "https://github.com/coryleach"
+  }
 }
