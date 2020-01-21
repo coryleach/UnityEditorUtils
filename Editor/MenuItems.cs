@@ -12,6 +12,16 @@ namespace Gameframe.EditorUtils
         {
             EditorUtility.RevealInFinder(Application.persistentDataPath);
         }
+        
+        [MenuItem("Gameframe/PlayerPrefs/ClearAll")]
+        public static void PlayerPrefsClear()
+        {
+            if (EditorUtility.DisplayDialog("PlayerPrefs", "Delete all player prefs?", "OK", "Cancel"))
+            {
+                PlayerPrefs.DeleteAll();
+                PlayerPrefs.Save();
+            }
+        }
     }
 }
 
