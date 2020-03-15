@@ -1,12 +1,13 @@
 <h1 align="center">Welcome to com.gameframe.editorutils 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/coryleach">
     <img alt="Twitter: coryleach" src="https://img.shields.io/twitter/follow/coryleach.svg?style=social" target="_blank" />
   </a>
 </p>
 
 > Misc. Editor Utilities for Unity.</br>
+> Helper MenuItems for clearing player prefs and opening persistent data folder.</br>
 > Including various MenuItems and helpers for building custom inspectors.
 
 ## Quick Package Install
@@ -17,7 +18,7 @@ Find the manifest.json file in the Packages folder of your project and edit it t
 ```js
 {
   "dependencies": {
-    "com.gameframe.editorutils": "https://github.com/coryleach/UnityEditorUtils.git#1.0.0",
+    "com.gameframe.editorutils": "https://github.com/coryleach/UnityEditorUtils.git#1.0.1",
     ...
   },
 }
