@@ -20,6 +20,7 @@ namespace Gameframe.EditorUtils
             {
                 PlayerPrefs.DeleteAll();
                 PlayerPrefs.Save();
+                EditorUtility.DisplayDialog("PlayerPrefs", "All PlayerPrefs have been Deleted.", "OK");
             }
         }
     }
